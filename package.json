@@ -1,0 +1,38 @@
+{
+    "name": "@rkaliev/nuxtjs-session-scroll-savior",
+    "version": "1.0.0",
+    "description": "NuxtJS Session Scroll Savior Module/Plugin",
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/rkaliev/nuxtjs-session-scroll-savior.git"
+    },
+    "main": "lib/index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Ruslan Aliev",
+    "contributors": [
+      {
+        "name": "Ruslan Aliev",
+        "email": "rkaliev1988@gmail.com"
+      }
+    ],
+    "files": [
+      "lib"
+    ],
+    "keywords": [
+      "nuxt.js", "nuxtjs", "nuxt",
+      "vue", "vuejs", "vue.js",
+      "scroll", "scrollTo", "scrollBy",
+      "session", "sessionStorage", "storage",
+      "сессия", "скролл", "сохранение скролла",
+      "модуль", "плагин", "module", "plugin",
+      "javascript", "js",
+      "front-end", "frontend",
+      "web"
+    ],
+    "publishConfig": {
+      "access": "public"
+    },
+    "license": "MIT"
+  }
